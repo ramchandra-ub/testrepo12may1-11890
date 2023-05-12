@@ -1,0 +1,15 @@
+{
+    "assetName": "sample-name",
+    "description": "sample-desc",
+    "topics": [
+        "ens-machinelearning",
+        "machineLearning-1",
+        "ens-asset",
+        "ens-asset",
+        "ens-asset",
+        "ens-asset"
+    ],
+    "associations": [
+        "github/test_repo"
+    ]
+}
